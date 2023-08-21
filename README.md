@@ -1,5 +1,5 @@
 ### Olá, eu sou a Julia Rezende! 
-:mortar_board: Estudante do 3º periodo de Engenharia da Computação no CEFET-MG <br> :mortar_board:Técnica em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG
+:mortar_board: Estudante de Engenharia da Computação no CEFET-MG <br> :mortar_board:Técnica em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG
 
 </div>
 <div align="center">
